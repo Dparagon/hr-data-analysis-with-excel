@@ -17,7 +17,7 @@ The dataset was loaded into Excel sheet as seen below:
 
 ![1](https://github.com/Dparagon/hr-data-analysis-with-excel/assets/128928568/50d3770b-2b36-4349-8aa2-ad63400c61bc)
 
-Checking the dataset, it needs claning. Inconsistencies, blanks, wrong datatypes were noticed. Starting with, the ‘birth_date’, ‘hire_date’ and ‘termdate’ columns were changed to Date datatypes, the ‘termdate’ column has blanks in it cells which were replaced with ‘unknown’ using the ‘Go to special’ feature in the Find & Select tab to fill the blanks.
+Checking the dataset, it needs cleaning. Inconsistencies, blanks, wrong datatypes were noticed. Firstly, the ‘birth_date’, ‘hire_date’ and ‘termdate’ columns were changed to Date datatypes, the ‘termdate’ column has blanks in it cells which were replaced with ‘unknown’ using the ‘Go to special’ feature in the Find & Select tab to fill the blanks.
 
 For the adequate result of the analysis, four additional columns were created as follows:
 
